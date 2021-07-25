@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782084488264",
+    "project_id": "desfood-70682",
+    "storage_bucket": "desfood-70682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782084488264:android:b274d092d59e7792c6ac7d",
+        "android_client_info": {
+          "package_name": "com.example.desfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782084488264-lcemb46po9nicui3v19qlhivb066dvuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6i5Q5FR8y2fmLJUtnthMxXskyjIwIyBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782084488264-lcemb46po9nicui3v19qlhivb066dvuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
